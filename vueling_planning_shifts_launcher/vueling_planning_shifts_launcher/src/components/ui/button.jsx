@@ -1,1 +1,0 @@
-export function Button({ children, onClick, variant='default', className='' }){return <button onClick={onClick} className={className}>{children}</button>}
